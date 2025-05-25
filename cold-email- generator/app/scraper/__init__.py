@@ -1,0 +1,1 @@
+# Website scraper module initialization
